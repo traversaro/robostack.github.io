@@ -1400,6 +1400,7 @@
 | ros-humble-ros-testing | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 0.4.0  |
 | ros-humble-ros-workspace | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 1.0.2  |
 | ros-humble-ros2-control | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 2.18.0, 2.22.0, 2.31.0, 2.37.0, 2.38.0, 2.47.0, 2.51.0  |
+| ros-humble-ros2-control-cmake | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-humble-ros2-control-test-assets | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 2.18.0, 2.22.0, 2.31.0, 2.38.0, 2.39.1, 2.47.0, 2.51.0  |
 | ros-humble-ros2-controllers | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 2.15.0, 2.16.1, 2.26.0, 2.32.0, 2.40.0, 2.48.0  |
 | ros-humble-ros2-controllers-test-nodes | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 2.15.0, 2.16.1, 2.32.0, 2.33.0, 2.40.0, 2.48.0  |
@@ -1910,4 +1911,4 @@
 | ros-humble-zmqpp-vendor | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-humble-zstd-point-cloud-transport | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 1.0.11  |
 | ros-humble-zstd-vendor | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 0.15.13, 0.15.14, 0.15.3, 0.15.4, 0.15.9  |
-| Number of available packages |  779 / 1910 | 671 / 1910 | 734 / 1910 | 779 / 1910 | 734 / 1910 |
+| Number of available packages |  779 / 1911 | 671 / 1911 | 734 / 1911 | 779 / 1911 | 734 / 1911 |
