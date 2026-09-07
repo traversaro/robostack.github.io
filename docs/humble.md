@@ -66,6 +66,7 @@
 | ros-humble-ament-cmake-pytest | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 1.3.11, 1.3.12, 1.3.13, 1.3.14, 1.3.3, 1.3.7, 1.3.8  |
 | ros-humble-ament-cmake-python | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 1.3.11, 1.3.12, 1.3.13, 1.3.14, 1.3.3, 1.3.7, 1.3.8  |
 | ros-humble-ament-cmake-ros | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 0.10.0  |
+| ros-humble-ament-cmake-ros-core | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-humble-ament-cmake-target-dependencies | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 1.3.11, 1.3.12, 1.3.13, 1.3.14, 1.3.3, 1.3.7, 1.3.8  |
 | ros-humble-ament-cmake-test | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 1.3.11, 1.3.12, 1.3.13, 1.3.14, 1.3.3, 1.3.7, 1.3.8  |
 | ros-humble-ament-cmake-uncrustify | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 0.12.10, 0.12.11, 0.12.12, 0.12.15, 0.12.4, 0.12.5  |
@@ -2336,4 +2337,4 @@
 | ros-humble-zmqpp-vendor | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-humble-zstd-point-cloud-transport | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 1.0.11, 1.0.13, 1.0.14  |
 | ros-humble-zstd-vendor | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 0.15.13, 0.15.14, 0.15.16, 0.15.3, 0.15.4, 0.15.9  |
-| Number of available packages |  988 / 2336 | 715 / 2336 | 865 / 2336 | 988 / 2336 | 865 / 2336 |
+| Number of available packages |  988 / 2337 | 715 / 2337 | 865 / 2337 | 988 / 2337 | 865 / 2337 |
