@@ -283,16 +283,16 @@
 | ros-jazzy-camera-ros | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 0.4.0, 0.5.0, 0.5.1, 0.5.2, 0.6.0, 0.7.0  |
 | ros-jazzy-can-msgs | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 2.0.0  |
 | ros-jazzy-canboat-vendor | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
-| ros-jazzy-canopen | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
-| ros-jazzy-canopen-402-driver | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
-| ros-jazzy-canopen-base-driver | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
-| ros-jazzy-canopen-core | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
+| ros-jazzy-canopen | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 0.3.4  |
+| ros-jazzy-canopen-402-driver | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 0.3.4  |
+| ros-jazzy-canopen-base-driver | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 0.3.4  |
+| ros-jazzy-canopen-core | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 0.3.4  |
 | ros-jazzy-canopen-fake-slaves | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
-| ros-jazzy-canopen-interfaces | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
+| ros-jazzy-canopen-interfaces | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 0.3.4  |
 | ros-jazzy-canopen-inventus-driver | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-canopen-inventus-interfaces | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-canopen-master-driver | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
-| ros-jazzy-canopen-proxy-driver | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
+| ros-jazzy-canopen-proxy-driver | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 0.3.4  |
 | ros-jazzy-canopen-ros2-control | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-canopen-ros2-controllers | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-canopen-tests | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
@@ -966,7 +966,7 @@
 | ros-jazzy-launch-xml | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 3.4.10, 3.4.11, 3.4.12, 3.4.2, 3.4.3, 3.4.4, 3.4.5, 3.4.6, 3.4.8, 3.4.9  |
 | ros-jazzy-launch-yaml | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 3.4.10, 3.4.11, 3.4.12, 3.4.2, 3.4.3, 3.4.4, 3.4.5, 3.4.6, 3.4.8, 3.4.9  |
 | ros-jazzy-ld08-driver | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
-| ros-jazzy-lely-core-libraries | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
+| ros-jazzy-lely-core-libraries | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :heavy_check_mark: { data-sort='1' } | :x: { data-sort='0' } | 0.3.4  |
 | ros-jazzy-leo | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-leo-bringup | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-leo-description | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
@@ -2017,7 +2017,7 @@
 | ros-jazzy-smach | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-smach-msgs | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-smach-ros | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
-| ros-jazzy-small-gicp-vendor | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
+| ros-jazzy-small-gicp-vendor | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 2.1.0  |
 | ros-jazzy-smclib | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 4.1.0, 4.1.2, 4.2.0  |
 | ros-jazzy-snowbot-operating-system | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
 | ros-jazzy-so-arm-100-hardware | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } | :x: { data-sort='0' } |   |
@@ -2490,4 +2490,4 @@
 | ros-jazzy-zstd-image-transport | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 4.0.3, 4.0.4, 4.0.5, 4.0.6, 4.0.7  |
 | ros-jazzy-zstd-point-cloud-transport | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 4.0.1, 4.0.2, 4.0.3, 4.0.4  |
 | ros-jazzy-zstd-vendor | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | :heavy_check_mark: { data-sort='1' } | 0.26.10, 0.26.11, 0.26.3, 0.26.6, 0.26.7, 0.26.8, 0.26.9  |
-| Number of available packages |  1182 / 2490 | 915 / 2490 | 1049 / 2490 | 1167 / 2490 | 1050 / 2490 |
+| Number of available packages |  1190 / 2490 | 916 / 2490 | 1050 / 2490 | 1175 / 2490 | 1051 / 2490 |
